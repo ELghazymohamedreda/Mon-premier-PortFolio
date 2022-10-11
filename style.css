@@ -1,0 +1,202 @@
+body {
+    background: #3aa5a4;
+}
+
+.container {
+    height: 400px;
+    background-color : #F9F9F9;
+}
+.IP{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.1;
+    padding: 60px 0 40px;
+}
+
+.XP{
+    height: 400px;
+    background-color: #F9F9F9;
+}
+.projectsdiv{
+    height: 500px;
+    width: 90%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 30px;
+}
+ 
+.project{
+    float: left;
+    padding: 22px;
+    width: 22%;
+    height: 200px;
+    padding-top: 50px;
+    margin-right: 7%;
+}
+.projectname{
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.projectdate{
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    color: gray;
+    font-size: 20px;
+}
+.rox{
+    float: left;
+    margin: 20px;
+}
+.rom{
+    margin-top: 6%;
+}
+.workdiv{
+    height: 450px;
+    width: 90%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 30px;
+}
+
+.work1{
+    padding-left: 35px;
+    padding-top: 35px;
+}
+.workd{
+    margin-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+    color: gray;
+    font-size: 18px;
+}
+.workt{
+    margin-bottom: 25px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.workp{
+    font-family: 'Lato', sans-serif;
+    color: gray;
+
+}
+.titles{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    padding-left: 35px;
+    padding-top: 35px;
+
+}
+.TAG{
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    float: left;
+}
+.TAX{
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    color: gray;
+    font-size: 20px;
+}
+.educationdiv{
+    height: 310px;
+    width: 90%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 30px;
+}
+.education1{
+    float: left;
+    margin-top:30px;
+    margin-left: 2.5%;
+    width: 20%;
+    height: 200px;
+}
+.education2{
+    float: left;
+    margin-top:30px;
+    margin-left: 15%;
+    width: 20%;
+    height: 200px;
+}
+.education3{
+    float: left;
+    margin-top:30px;
+    margin-left: 15%;
+    width: 20%;
+    height: 200px;
+}
+
+
+.educationd{
+    margin-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+    color: gray;
+    font-size: 18px;
+}
+.educationt{
+    margin-bottom: 25px;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+}
+.educationuni{
+    font-family: 'Lato', sans-serif;
+    color: gray;
+}
+.languagediv{
+    height: 250px;
+    width: 90%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 30px;
+}
+
+.language1{
+    float: left;
+    margin-top:30px;
+    margin-left: 2.5%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+
+.language2{
+    float: left;
+    margin-top:30px;
+    margin-left: 15%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+
+.language3{
+    float: left;
+    margin-top:30px;
+    margin-left: 15%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+.lang{
+    color: gray;
+}
+.str{
+    color: black;
+}
+
+
