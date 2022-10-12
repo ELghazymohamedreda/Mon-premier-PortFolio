@@ -27,6 +27,7 @@ body {
     margin: auto;
     padding: auto;
     margin-bottom: 30px;
+    border-radius: 3px;
 }
  
 .project{
@@ -115,7 +116,8 @@ body {
     margin: auto;
     padding: auto;
     margin-bottom: 30px;
-}
+    border-radius: 3px;
+} 
 .education1{
     float: left;
     margin-top:30px;
@@ -162,6 +164,7 @@ body {
     margin: auto;
     padding: auto;
     margin-bottom: 30px;
+    border-radius: 3px;
 }
 
 .language1{
@@ -200,4 +203,92 @@ body {
     color: black;
 }
 
+.Network5{
+    float: left;
+    margin-top:30px;
+    margin-left: 2.5%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
 
+.lang1{
+    color: black;
+}
+.lang2{
+    color: black;
+}
+.lang3{
+    color: black;
+}
+.Network6{
+    float: left;
+    margin-top:30px; 
+    margin-left: 15%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+
+.Network7{
+    float: left;
+    margin-top:30px;
+    margin-left: 20%;
+    width: 20%;
+    height: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+
+
+.languagediv2{
+    height: 650px;
+    width: 90%;
+    background-color: white;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
+
+input{
+    border:none;
+    border-radius: 3px;
+    background-color: #eee;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 15px;
+    margin-left: 9%;
+}
+
+textarea{
+    border: none;
+    border-radius: 3px;
+    background-color: #eee;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 25px;
+    margin-left: 9%;
+}
+button{
+    margin-left: 9%;
+    background-color: black;
+    color: #fff;
+    border-radius: 20px;
+}
+.back{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-image: url(https://technext.github.io/energy1/assets/images/img-01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    opacity: 10%;
+    width: 100%;
+    height: 550px;
+  }
