@@ -12,7 +12,7 @@ body {
     text-align: center;
     font-weight: 900;
     line-height: 1.1;
-    padding: 60px 0 40px;
+    padding: 60px  40px;
 }
 
 .XP{
@@ -29,14 +29,23 @@ body {
     margin-bottom: 30px;
     border-radius: 3px;
 }
+.titles5{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    
+    padding-top: 35px;
+    margin-left: 6%;
+
+}
  
 .project{
     float: left;
-    padding: 22px;
+    
     width: 22%;
     height: 200px;
     padding-top: 50px;
-    margin-right: 7%;
+    margin-right: 5%;
+    margin-left: 6%;
 }
 .projectname{
     margin-top: 20px;
@@ -50,12 +59,17 @@ body {
     color: gray;
     font-size: 20px;
 }
-.rox{
+
+.rom img{
     float: left;
-    margin: 20px;
+    margin-left: 6%;
+    margin-right: 20px;
+    width: 300px;
+
 }
-.rom{
-    margin-top: 6%;
+.rom p{
+    margin-top: 3%;
+    margin-right: 10%;
     color: gray;
 }
 .workdiv{
@@ -69,8 +83,9 @@ body {
 }
 
 .work1{
-    padding-left: 35px;
+    padding-left: 4.5px;
     padding-top: 35px;
+    
 }
 .workd{
     margin-bottom: 10px;
@@ -91,7 +106,21 @@ body {
 .titles{
     font-family: 'Oswald', sans-serif;
     font-size: 35px;
-    padding-left: 35px;
+    margin-left: 6%;
+    padding-top: 35px;
+
+}
+.titles3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    padding-left: 5%;
+    padding-top: 35px;
+
+}
+.titles1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    padding-left: 4.5px;
     padding-top: 35px;
 
 }
@@ -121,7 +150,7 @@ body {
 .education1{
     float: left;
     margin-top:30px;
-    margin-left: 2.5%;
+    margin-left: 6%;
     width: 20%;
     height: 200px;
 }
@@ -170,11 +199,12 @@ body {
 .language1{
     float: left;
     margin-top:30px;
-    margin-left: 2.5%;
+    margin-left: 6%;
     width: 20%;
     height: 200px;
     font-family: 'Lato', sans-serif;
     font-size: 23px;
+   
 }
 
 .language2{
@@ -206,7 +236,7 @@ body {
 .Network5{
     float: left;
     margin-top:30px;
-    margin-left: 2.5%;
+    margin-left: 5%;
     width: 20%;
     height: 200px;
     font-family: 'Lato', sans-serif;
@@ -278,6 +308,7 @@ button{
     background-color: black;
     color: #fff;
     border-radius: 20px;
+    padding: 1%;
 }
 .back{
     position: absolute;
